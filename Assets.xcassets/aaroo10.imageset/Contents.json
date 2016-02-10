@@ -1,0 +1,70 @@
+{
+  "images" : [
+    {
+      "idiom" : "iphone",
+      "filename" : "aaroo10.jpg",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "iphone",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "iphone",
+      "scale" : "3x"
+    },
+    {
+      "idiom" : "iphone",
+      "scale" : "1x",
+      "height-class" : "regular"
+    },
+    {
+      "idiom" : "iphone",
+      "scale" : "2x",
+      "height-class" : "regular"
+    },
+    {
+      "idiom" : "iphone",
+      "scale" : "3x",
+      "height-class" : "regular"
+    },
+    {
+      "idiom" : "iphone",
+      "scale" : "1x",
+      "width-class" : "compact"
+    },
+    {
+      "idiom" : "iphone",
+      "scale" : "2x",
+      "width-class" : "compact"
+    },
+    {
+      "idiom" : "iphone",
+      "scale" : "3x",
+      "width-class" : "compact"
+    },
+    {
+      "idiom" : "iphone",
+      "filename" : "aaroo10-1.jpg",
+      "width-class" : "compact",
+      "height-class" : "regular",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "iphone",
+      "width-class" : "compact",
+      "height-class" : "regular",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "iphone",
+      "width-class" : "compact",
+      "height-class" : "regular",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}
